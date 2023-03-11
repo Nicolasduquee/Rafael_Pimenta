@@ -1,2 +1,2 @@
 # Rafael_Pimenta
-Site em desenvolvimento para o fotógrafo Rafael Pimenta.
+Site responsivo em HTML, CSS E JavaScript em desenvolvimento para o fotógrafo Rafael Pimenta.
